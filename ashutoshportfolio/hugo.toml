@@ -1,0 +1,4 @@
+baseURL = 'https://ashutosh.github.io/'
+languageCode = 'en-us'
+title = 'Ashutosh Vats'
+theme='Coder-hugo'
